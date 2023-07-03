@@ -1,3 +1,6 @@
 [submodule "JuliaHub"]
 	path = JuliaHub
 	url = https://github.com/JuliaComputing/JuliaHub.jl
+[submodule "AbstractTrees"]
+	path = AbstractTrees
+	url = https://github.com/JuliaCollections/AbstractTrees.jl
