@@ -1,0 +1,4 @@
+name = "Demo2"
+uuid = "c4e90434-a92f-459a-8429-25fdf3937f81"
+authors = ["Shuhei Kadowaki <aviatesk@gmail.com>"]
+version = "0.1.0"

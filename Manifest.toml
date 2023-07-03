@@ -2,10 +2,10 @@
 
 julia_version = "1.9.1"
 manifest_format = "2.0"
-project_hash = "cb0211c77ba2dd994fd51e7bb8a90d1b6df35a16"
+project_hash = "83ea32e106917ba0d37f7dccae86d44d7a6af69f"
 
 [[deps.AbstractTrees]]
-git-tree-sha1 = "faa260e4cb5aba097a73fab382dd4b5819d8ec8c"
+path = "AbstractTrees"
 uuid = "1520ce14-60c1-5f80-bbc7-55ef81b5835c"
 version = "0.4.4"
 
@@ -62,6 +62,11 @@ uuid = "ade2ca70-3891-5945-98fb-dc099432e06a"
 [[deps.Demo1]]
 path = "Demo1"
 uuid = "c1f8dc73-ed11-4145-b7c6-9b5a5fa3fb42"
+version = "0.1.0"
+
+[[deps.Demo2]]
+path = "Demo2"
+uuid = "c4e90434-a92f-459a-8429-25fdf3937f81"
 version = "0.1.0"
 
 [[deps.Distributed]]
